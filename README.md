@@ -1,3 +1,5 @@
+# ARCHIVED: this repo is not active. The [Pilot project ended.](https://github.com/CVEProject/cvelist/discussions/8938)
+
 # CVE Automation Working Group Git Pilot
 
 The [CVE Automation Working
